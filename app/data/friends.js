@@ -1,0 +1,85 @@
+module.exports.queenList = [
+  {
+    "name":"Alyssa",
+    "photo":"../images/alyssa.jpeg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Bianca",
+    "photo":"../images/bianca.jpeg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Jinkx",
+    "photo":"../images/jinkx.jpeg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Katya",
+    "photo":"../images/katya.jpeg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+},
+{
+    "name":"Latrice",
+    "photo":"../images/latrice.jpeg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+}]
+
+
+
+
