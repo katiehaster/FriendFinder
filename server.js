@@ -11,9 +11,6 @@ app.use(express.json());
 // Data
 
 // Array variables to hold data
-  
-
-// Create set of routes for getting and posting queen data
 
 require("./app/routing/htmlRoutes")(app);
 require("./app/routing/apiRoutes")(app);

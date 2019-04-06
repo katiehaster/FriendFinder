@@ -2,7 +2,7 @@ module.exports.queenList = [
   {
     "name":"Alyssa",
     "photo":"../images/alyssa.jpeg",
-    "scores":[
+    "scores": [
         5,
         1,
         4,
@@ -18,12 +18,12 @@ module.exports.queenList = [
 {
     "name":"Bianca",
     "photo":"../images/bianca.jpeg",
-    "scores":[
-        5,
+    "scores": [
+        3,
+        3,
+        3,
+        2,
         1,
-        4,
-        4,
-        5,
         1,
         2,
         5,
@@ -34,15 +34,15 @@ module.exports.queenList = [
 {
     "name":"Jinkx",
     "photo":"../images/jinkx.jpeg",
-    "scores":[
-        5,
+    "scores": [
+        1,
         1,
         4,
-        4,
-        5,
-        1,
         2,
-        5,
+        2,
+        4,
+        1,
+        3,
         4,
         1
       ]
@@ -50,33 +50,33 @@ module.exports.queenList = [
 {
     "name":"Katya",
     "photo":"../images/katya.jpeg",
-    "scores":[
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
+    "scores": [
         2,
-        5,
-        4,
+        3,
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        1,
         1
       ]
 },
 {
     "name":"Latrice",
     "photo":"../images/latrice.jpeg",
-    "scores":[
+    "scores": [
+        5,
+        5,
+        4,
+        4,
         5,
         1,
-        4,
-        4,
-        5,
-        1,
-        2,
+        3,
         5,
         4,
-        1
+        2
       ]
 }]
 
