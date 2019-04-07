@@ -1,7 +1,7 @@
 module.exports.queenList = [
   {
     "name":"Alyssa",
-    "photo":"../images/alyssa.jpeg",
+    "photo":"https://i.pinimg.com/originals/02/3e/41/023e41f59552b3dd39993ebb0b063af6.jpg",
     "scores": [
         5,
         1,
@@ -17,7 +17,7 @@ module.exports.queenList = [
 },
 {
     "name":"Bianca",
-    "photo":"../images/bianca.jpeg",
+    "photo":"https://i.pinimg.com/originals/36/ca/6c/36ca6c8ad84be08cdee43963084d83e5.jpg",
     "scores": [
         3,
         3,
@@ -33,7 +33,7 @@ module.exports.queenList = [
 },
 {
     "name":"Jinkx",
-    "photo":"../images/jinkx.jpeg",
+    "photo":"http://res.cloudinary.com/sagacity/image/upload/c_crop,h_1470,w_980,x_0,y_0/c_limit,w_640/v1396742641/4-13-jinkx-monsoon_ezs7zu.jpg",
     "scores": [
         1,
         1,
@@ -49,7 +49,7 @@ module.exports.queenList = [
 },
 {
     "name":"Katya",
-    "photo":"../images/katya.jpeg",
+    "photo":"https://static1.squarespace.com/static/547384c2e4b080be34ce3327/t/5971455b29687f358e530dca/1500600429512/b1a1f8d84eaf97f14027d988ed7a4f60--katya-zamolodchikova-tgirls+b.jpg?format=1500w",
     "scores": [
         2,
         3,
@@ -65,7 +65,7 @@ module.exports.queenList = [
 },
 {
     "name":"Latrice",
-    "photo":"../images/latrice.jpeg",
+    "photo":"https://www.out.com/sites/out.com/files/2016/03/24/promo_still.jpeg",
     "scores": [
         5,
         5,
