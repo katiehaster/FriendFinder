@@ -8,12 +8,16 @@ var PORT = process.env.PORT || 3000;
 app.use(express.urlencoded({ extended: true })); 
 app.use(express.json());
 
-// Data
-
-// Array variables to hold data
-
 require("./app/routing/htmlRoutes")(app);
 require("./app/routing/apiRoutes")(app);
+
+if(process.env.NODE_ENV === 'production'){
+  //set static folder
+  app.use(express.static('app/public'));
+}
+app.get('*',(req, res) => {
+  res.sendFile(path.resolve(__dirname, 'app', 'public', 'survey.html'));
+});
 
 // Listener
 app.listen(PORT, function() {
