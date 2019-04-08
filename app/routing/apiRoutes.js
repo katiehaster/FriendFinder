@@ -59,7 +59,9 @@ module.exports = function(app) {
             console.log("Your best match is: ", queenList.queenList[position]);
           }
           match(total);
-          // (queenList.queenList).push(newUser);
+
+          // Allows the user input to be appended to the queenList. 
+          (queenList.queenList).push(newUser);
           res.json(queenList.queenList[position]);
     });
 };

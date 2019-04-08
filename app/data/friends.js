@@ -1,6 +1,6 @@
 module.exports.queenList = [
   {
-    "name":"Alyssa",
+    "name":"Alyssa Edwards",
     "photo":"https://i.pinimg.com/originals/02/3e/41/023e41f59552b3dd39993ebb0b063af6.jpg",
     "scores": [
         5,
@@ -12,11 +12,11 @@ module.exports.queenList = [
         2,
         5,
         4,
-        1
+        5
       ]
 },
 {
-    "name":"Bianca",
+    "name":"Bianca del Rio",
     "photo":"https://i.pinimg.com/originals/36/ca/6c/36ca6c8ad84be08cdee43963084d83e5.jpg",
     "scores": [
         3,
@@ -28,11 +28,11 @@ module.exports.queenList = [
         2,
         5,
         4,
-        1
+        5
       ]
 },
 {
-    "name":"Jinkx",
+    "name":"Jinkx Monsoon",
     "photo":"http://res.cloudinary.com/sagacity/image/upload/c_crop,h_1470,w_980,x_0,y_0/c_limit,w_640/v1396742641/4-13-jinkx-monsoon_ezs7zu.jpg",
     "scores": [
         1,
@@ -44,7 +44,7 @@ module.exports.queenList = [
         1,
         3,
         4,
-        1
+        5
       ]
 },
 {
@@ -60,11 +60,11 @@ module.exports.queenList = [
         2,
         3,
         1,
-        1
+        5
       ]
 },
 {
-    "name":"Latrice",
+    "name":"Latrice Royale",
     "photo":"https://www.out.com/sites/out.com/files/2016/03/24/promo_still.jpeg",
     "scores": [
         5,
@@ -76,7 +76,7 @@ module.exports.queenList = [
         3,
         5,
         4,
-        2
+        5
       ]
 }]
 
